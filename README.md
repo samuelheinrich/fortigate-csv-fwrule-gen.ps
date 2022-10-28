@@ -8,6 +8,7 @@ Input example
 
 
 Output Example:
+
 ![image](https://user-images.githubusercontent.com/16579232/198536532-948f45a6-2d41-490c-8a27-d853b2ae8003.png)
 
 
