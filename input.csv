@@ -1,0 +1,3 @@
+﻿status,name,srcintf,dstintf,action,srcaddr,dstaddr,schedule,service,nat,comments
+disable,IA_vl0300,z-int,virtual-wan-link,accept,n-192.168.0.0/24,INTERNET,always,ALL,enable,default internet access for vl300 server
+disable,IA_vl0301,z-int,virtual-wan-link,accept,n-192.168.1.0/24,any,always,ALL,enable,default internet access for vl301 server
